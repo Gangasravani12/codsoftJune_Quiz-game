@@ -1,4 +1,4 @@
-# codsoftJune_Quiz-game
+# Quiz-game
 
 # Quiz game documentatiom
 
